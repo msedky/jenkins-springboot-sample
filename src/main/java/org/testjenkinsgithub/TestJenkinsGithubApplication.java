@@ -12,7 +12,7 @@ public class TestJenkinsGithubApplication implements CommandLineRunner {
 	private static final Logger LOGGER = LoggerFactory.getLogger(TestJenkinsGithubApplication.class);
 
 	public static void main(String[] args) {
-		LOGGER.info("it is a continous integration job");
+		LOGGER.info("it is a continous integration job,.....");
 		SpringApplication.run(TestJenkinsGithubApplication.class, args);
 	}
 
