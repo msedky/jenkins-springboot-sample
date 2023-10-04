@@ -18,7 +18,7 @@ public class TestJenkinsGithubApplication implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
-		LOGGER.info("it is my second logger, args = " + args);
+		LOGGER.info("it is my second loggerrr, args = " + args);
 	}
 
 }
